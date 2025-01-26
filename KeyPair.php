@@ -1,4 +1,4 @@
-<?php
+brunch/pip<?php
 
 namespace BIP\Library;
 
