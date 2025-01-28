@@ -1,4 +1,4 @@
-<?php
+<?phphi
 
 namespace BIP;
 12345
